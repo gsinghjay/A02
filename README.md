@@ -1,5 +1,29 @@
+# Part 1 - Installing VS Code with GitHub Integration
 
-# Part 2
+## Installing and Setting Up Visual Studio Code with GitHub on Windows
+
+This guide provides step-by-step instructions on how to install Visual Studio Code (VS Code), integrate it with GitHub, and optionally generate an SSH key for Windows. This setup is ideal for web development and other programming tasks.
+
+### Step 1: Install Visual Studio Code
+
+1. Visit the VS Code download page: [Visual Studio Code Download](https://code.visualstudio.com/download)
+2. Click on the Windows download link to download the installer.
+3. Run the downloaded `.exe` file and follow the installation prompts to install VS Code on your Windows machine.
+
+### Step 2: Install Git for Windows
+
+To integrate VS Code with GitHub, you need Git installed on your machine.
+
+1. Download Git for Windows from [Git - Download](https://git-scm.com/download/win)
+2. Run the downloaded `.exe` file and follow the installation instructions. Make sure to select the option that adds Git to your PATH.
+
+### Step 3: Configure VS Code with Git
+
+1. Open VS Code.
+2. Open the Command Palette by pressing `Ctrl+Shift+P`.
+3. Type `Git: Clone` and press Enter, then follow the prompts to clone a repository. This step is to ensure Git is integrated correctly with VS Code.
+
+# Part 2 - GitHub Terminology
 
 - **Branch**: A separate line of development. It allows you to diverge from the main line of development and continue to work independently without affecting the main line.
 
