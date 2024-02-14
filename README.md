@@ -2,10 +2,6 @@
 
 This guide assumes you have pre-created all repositories for the assignments on GitHub to clone over to your machine whether they are empty or not.
 
-## Installing and Setting Up Visual Studio Code with GitHub on Windows
-
-This guide provides step-by-step instructions on how to install Visual Studio Code (VS Code), integrate it with GitHub, and optionally generate an SSH key for Windows. This setup is ideal for web development and other programming tasks.
-
 ### Step 1: Install Visual Studio Code
 
 1. Visit the VS Code download page: [Visual Studio Code Download](https://code.visualstudio.com/download)
