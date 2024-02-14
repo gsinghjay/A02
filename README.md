@@ -51,3 +51,5 @@ This guide assumes you have pre-created all repositories for the assignments on 
 - **Remote**: A version of your project that is hosted on the internet or network somewhere. You can have several of them, which can be read-only or read/write for you.
 
 - **Repository**: A directory where Git has been initialized to start tracking and recording changes to the files. It can be local (on your machine) or remote (e.g., on GitHub).
+
+Sources: https://www.theodinproject.com/lessons/foundations-setting-up-git, https://www.youtube.com/watch?v=ORrELERGIHs&t=103s, and https://code.visualstudio.com/docs/setup/windows.
