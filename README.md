@@ -20,22 +20,15 @@ This guide provides step-by-step instructions on how to install Visual Studio Co
 ### Step 3: Access the Source Control Panel
 
 1. Press `Ctrl + Shift + G` to open the Source Control panel.
-2. In the Source Control panel, you will see a message "No source control providers registered" if you haven't opened a folder that's under version control.
 
 ### Step 4: Clone the Repository
 
 1. At the top of the Source Control panel, find and click the "Clone Repository" button.
-2. VS Code will prompt you to enter the URL of the repository you want to clone. You can find this URL on your GitHub repository page, labeled as "Clone or download".
-3. Paste the URL into VS Code's input box and press Enter.
-4. Next, VS Code will ask you to select a directory where you want to clone the repository. Choose your preferred location and confirm.
-5. Once the repository is cloned, VS Code may prompt you to open the cloned repository. Click "Open" to start working on your project.
-
-## Step 5: Open the Cloned Repository (Optional)
-
-If VS Code doesn't automatically prompt you to open the cloned repository, you can manually open it by:
-
-1. Going to `File` > `Open Folder...`.
-2. Navigate to where you cloned the repository, select it, and click `Open`.
+2. VS Code will prompt you to enter the URL of the repository you want to clone.
+3. Skip entering a URL and select Clone from GitHub.
+4. VS Code will prompt you that "The extension 'GitHub' wants to sign in using GitHub." Click allow.
+5. Link your GitHub account with VS Code.
+6. Now you are able to clone and commit to your repositories.
 
 # Part 2 - GitHub Terminology
 
